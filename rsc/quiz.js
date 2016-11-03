@@ -336,7 +336,7 @@ function tweet(state, opts) {
 
   var body = (
     "Obtuve " + state.correct +
-    " de " + state.total 
+    " de " + state.total +opts.url;
   );
 
   return (
