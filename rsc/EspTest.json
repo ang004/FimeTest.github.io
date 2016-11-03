@@ -1,0 +1,162 @@
+{
+  "questions": [
+    {
+      "answers": [
+        "Expresiva.",
+        "Apelativa.",
+        "Referencial.",
+        "Poetica."
+      ],
+      "correct": {
+        "index": 2
+      },
+      "number": 1,
+      "prompt": "Identifica la funcion de la lengua que ejemplifica el siguiente texto: Adios al poeta del compromiso Muere Mario Benedetti despues de una larga vida de lucha contra la adversidad y en defensa de la alegria."
+    },
+    {
+      "answers": [
+        "Informacion.",
+        "Descripcion.",
+        "Enumeracion.",
+        "Explicacion."
+      ],
+      "correct": {
+        "index": 1
+      },
+      "number": 3,
+      "prompt": "Que forma del discurso predomina en el siguiente parrafo El alcoholismo es una enfermedad progresiva y cronica, que presenta sintomas que van desde el malestar hasta el dolor intenso Depende de varios factores, principalmente de la predisposicion genetica y de la influencia del medio ambiente familiar y social Pese a que afecta todo el cuerpo y provoca una variedad de problemas medicos, los principales sin tomas se manifiestan en el sistema nervioso A traves de este, en especial del cerebro, la adiccion produce diversos trastornos en el pensamiento, las emociones y la conducta del enfermo."
+    },
+    {
+      "answers": [
+        "un sustantivo.",
+        "un verbo.",
+        "un adjetivo.",
+        "una preposicion."
+      ],
+      "correct": {
+        "index": 3
+      },
+      "number": 4,
+      "prompt": "En el enunciado Chueng Tzu PRESENCIA a las afueras del palacio la lucha entre dos serpientes la palabra en mayusculas es."
+    },
+    {
+      "answers": [
+        "Los papas de Ernesto no lo dejan que haga solo las cosas.",
+        "Los papas de Ernesto no dejan hacer solo sus actividades.",
+        "Los papas de Ernesto no dejan que haga solo sus actividades.",
+        "Los papas de Ernesto no lo dejan que haga las cosas solo."
+      ],
+      "correct": {
+        "index": 2
+      },
+      "number": 5,
+      "prompt": "Cual de los siguientes enunciados esta redactado correctamente."
+    },
+    {
+      "answers": [
+        "En este orden, la posibilidad y el origen del conocimiento son  algunos problemas a considerar Presenta el conocimiento, para iniciar, asi una vertiente filosofica que no podemos soslayar si queremos profundizar en el tema.",
+        "Asi, la posibilidad y el origen del conocimiento son algunos problemas a considerar que presenta el conocimiento Para iniciar, una vertiente filosofica que no podemos soslayar si queremos profundizar en el tema.",
+        "El conocimiento, en el inicio, ofrece una vertiente filosofica que no podemos soslayar si queremos profundizar en el tema De modo que la posibilidad y el origen del conocimiento son algunos problemas a considerar.",
+        "El conocimiento, en principio, ofrece una vertiente filosofica que no podemos soslayar si queremos profundizar en el tema En este orden, la posibilidad y el origen del conocimiento son algunos problemas clave."
+      ],
+      "correct": {
+        "index": 3
+      },
+      "number": 6,
+      "prompt": "Elige el parrafo con la mejor redaccion."
+    },
+    {
+      "answers": [
+        "Enumeracion.",
+        "Descripcion.",
+        "Argumentacion.",
+        "Narracion."
+      ],
+      "correct": {
+        "index": 2
+      },
+      "number": 7,
+      "prompt": "Que forma del discurso predomina en el siguiente ejemplo El libro comprende tres capitulos, con cinco subtemas cada uno Sin embargo, no tiene consistencia. Esto se corrobora, en primer lugar, porque carece de un apartado de conclusiones En segundo lugar,no cita las fuentes bibliograficas en las que se apoya Esto hace que el texto sea de poco fiar."
+    },
+    {
+      "answers": [
+        "Pescado / pez.",
+        "Gente / persona.",
+        "Piara / enjambre.",
+        "Reba\u00c3\u00b1o / abeja."
+      ],
+      "correct": {
+        "index": 1
+      },
+      "number": 8,
+      "prompt": "De acuerdo con la relacion de ANALOGiA entre las palabras en letras mayusculas, se\u00c3\u00b1ala la opcion que presenta una relacion semejante en las dos preguntas siguientes CARDUMEN - PEZ."
+    },
+    {
+      "answers": [
+        "Fuerza / fortaleza.",
+        "Bien / valor.",
+        "Color / azul.",
+        "Azul / celeste."
+      ],
+      "correct": {
+        "index": 1
+      },
+      "number": 9,
+      "prompt": "NEGRO - COLOR."
+    },
+    {
+      "answers": [
+        "Luminoso.",
+        "Fulgor.",
+        "Claridad.",
+        "Diafano."
+      ],
+      "correct": {
+        "index": 1
+      },
+      "number": 10,
+      "prompt": "Sinonimo de DESTELLO."
+    },
+    {
+      "answers": [
+        "numero, numero, numero.",
+        "Ixtacihuatl, Ixtacihuatl, Iztaccihuatl.",
+        "Jose, Pepe, Dolores, Lola.",
+        "echo, hecho, uno, huno."
+      ],
+      "correct": {
+        "index": 3
+      },
+      "number": 11,
+      "prompt": "Selecciona la opcion que contiene unicamente palabras homofonas."
+    },
+    {
+      "answers": [
+        "En esencia, todavia a los dieciseis a\u00c3\u00b1os se es adolescente.",
+        "En escencia, todavia a los diesiseis a\u00c3\u00b1os se es adolecente.",
+        "En esencia, todavia a los diesiseis a\u00c3\u00b1os se es adolecente.",
+        "En escencia, todavia a los dieciseis a\u00c3\u00b1os se es adolecente."
+      ],
+      "correct": {
+        "index": 0
+      },
+      "number": 12,
+      "prompt": "De los siguientes enunciados con variantes ortograficas, elige el que tiene la ortografia CORRECTA."
+    },
+    {
+      "answers": [
+        "adjetivo demostrativo.",
+        "pronombre posesivo.",
+        "adjetivo explicativo.",
+        "pronombre demostrativo."
+      ],
+      "correct": {
+        "index": 3
+      },
+      "number": 13,
+      "prompt": "En el enunciado La polinizacion que esta efectua en una extensa zona,,, la palabra eSTA se acentua porque es un."
+    }
+  ],
+  "title": "Espa\u00f1ol",
+  "url": "https://ang004.github.io/FimeTest.github.io/."
+}

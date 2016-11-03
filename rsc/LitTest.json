@@ -1,0 +1,141 @@
+{
+  "questions": [
+    {
+      "answers": [
+        "tenga una unidad de sentido.",
+        "con datos comprobables.",
+        "analitico.",
+        "con opinion del autor."
+      ],
+      "correct": {
+        "index": 0
+      },
+      "number": 1,
+      "prompt": "La cabalidad es una propiedad del texto en que este sea completo y."
+    },
+    {
+      "answers": [
+        "Pastorela",
+        "Melodrama",
+        "Drama",
+        "Comedia"
+      ],
+      "correct": {
+        "index": 3
+      },
+      "number": 2,
+      "prompt": "Texto que hace una critica social y se auxilia de personajes arquetipicos como el avaro, el astuto, el adulador o el hipocrita."
+    },
+    {
+      "answers": [
+        "Hice su risa de espuma musical, forme su boca con una brasa del ocaso y concebi sus ojos como un tiempo sin retorno",
+        "Imagine su risa muy agradable al oido, su boca de color rojo intenso y una mirada que producia un efecto de extravio.",
+        "Su risa armoniosa era una quimera, su boca de guinda como el ocaso, y sus ojos de tiempo sin retorno.",
+        "Fantasee con su risa melodiosa, su boca como una brasa del ocaso y su mirada encantadora."
+      ],
+      "correct": {
+        "index": 1
+      },
+      "image": "../images/l3",
+      "number": 3,
+      "prompt": "Lee el siguiente poema:."
+    },
+    {
+      "answers": [
+        "libre",
+        "consonante",
+        "yambica",
+        "asonante"
+      ],
+      "correct": {
+        "index": 1
+      },
+      "image": "../images/l4",
+      "number": 4,
+      "prompt": "En la siguiente estrofa."
+    },
+    {
+      "answers": [
+        "la soledad",
+        "el dolor",
+        "el amor",
+        "la amistad"
+      ],
+      "correct": {
+        "index": 2
+      },
+      "image": "../images/l5",
+      "number": 5,
+      "prompt": "Lee el siguiente texto:."
+    },
+    {
+      "answers": [
+        "Lirico",
+        "epico",
+        "Drama",
+        "Didactico"
+      ],
+      "correct": {
+        "index": 1
+      },
+      "number": 6,
+      "prompt": "Genero literario que aborda asuntos heroicos, sus personajes se inspiran en figuras historicas y simbolizan valores universales de la colectividad."
+    },
+    {
+      "answers": [
+        "I, III y V",
+        "II y IV",
+        "I, II y III",
+        "III y IV"
+      ],
+      "correct": {
+        "index": 0
+      },
+      "image": "../images/l7",
+      "number": 7,
+      "prompt": "De acuerdo con las caracteristicas del realismo, el escritor:."
+    },
+    {
+      "answers": [
+        "Camilo Jose Cela",
+        "Miguel de Unamuno",
+        "Benito Perez Galdos",
+        "Ramon del Valle Inclan"
+      ],
+      "correct": {
+        "index": 2
+      },
+      "number": 8,
+      "prompt": "Escritor representante del Realismo espa\u00f11ol."
+    },
+    {
+      "answers": [
+        "Carlos Fuentes",
+        "Juan Rulfo",
+        "Jose Emilio Pacheco",
+        "Octavio Paz"
+      ],
+      "correct": {
+        "index": 3
+      },
+      "number": 9,
+      "prompt": "Autor mexicano que escribio El Laberinto de la Soledad."
+    },
+    {
+      "answers": [
+        "bibliografica",
+        "de resumen",
+        "hemerografica",
+        "de cita"
+      ],
+      "correct": {
+        "index": 0
+      },
+      "image": "../images/l10",
+      "number": 10,
+      "prompt": "La siguiente es una ficha:."
+    }
+  ],
+  "title": "Literatura",
+  "url": "https://ang004.github.io/FimeTest.github.io/."
+}
