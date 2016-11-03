@@ -271,7 +271,7 @@ var $indicators = $('<ol>')
 
   var $social = $("<div>")
     .attr('class', 'results-social')
-    .html('<div id = "social-text">Did you like the quiz? Share your results with your friends, so they can give it a shot!</div>')
+    .html('<div id = "social-text">Te agrado el test? Compartelo para que otros lo intenten</div>')
     .appendTo($results_slide);
 
   var $twitter_link = $('<a>')
@@ -335,10 +335,8 @@ function resultsText(state) {
 function tweet(state, opts) {
 
   var body = (
-    "I got " + state.correct +
-    " out of " + state.total +
-    " on @taxpolicycenter’s \"" + opts.title +
-    "\" quiz. Prueba " + opts.url
+    "Obtuve " + state.correct +
+    " de " + state.total 
   );
 
   return (
