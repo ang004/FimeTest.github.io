@@ -77,7 +77,7 @@
         "index": 2
       },
       "number": 6,
-      "prompt": "Regiones densamente pobladas en el mundo I- Este de Europa II- Oeste de Ocean\u00c3\u00ada III- Occidente de Europa IV- Norte de Asia V- Sur de Asia."
+      "prompt": "Regiones densamente pobladas en el mundo \\nI- Este de Europa \\nII- Oeste de Oceania \\nIII- Occidente de Europa \\nIV- Norte de Asia \\nV- Sur de Asia."
     },
     {
       "answers": [

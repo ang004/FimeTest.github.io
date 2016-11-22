@@ -1,0 +1,136 @@
+{
+  "questions": [
+    {
+      "answers": [
+        "Mendel y Morgan.",
+        "Darwin y Wallace.",
+        "Oparin y Haldane.",
+        "Schleiden y Schwann."
+      ],
+      "correct": {
+        "index": 3
+      },
+      "number": 1,
+      "prompt": "Los investigadores que cristalizaron en el siglo XIX los principios de la teora celular fueron."
+    },
+    {
+      "answers": [
+        "celulosa.",
+        "glucosa.",
+        "Xilobiosa.",
+        "almidon."
+      ],
+      "correct": {
+        "index": 1
+      },
+      "number": 2,
+      "prompt": "Monosacarido que se obtiene al final de la fase oscura de la fotosntesis."
+    },
+    {
+      "answers": [
+        "Lactica.",
+        "Butrica.",
+        "Alcoholica.",
+        "Acido acetica."
+      ],
+      "correct": {
+        "index": 2
+      },
+      "number": 3,
+      "prompt": "Tipo de fermentacion donde las enzimas transforman el piruvato en acetaldehdo, se desprende CO2 y se obtiene etanol como producto final."
+    },
+    {
+      "answers": [
+        "IA  IIB,C,D.",
+        "ID  IIA,B,C.",
+        "IA,B IIC,D.",
+        "IB,C  IIA,D."
+      ],
+      "correct": {
+        "index": 1
+      },
+      "number": 4,
+      "prompt": "Relaciona las fases del ciclo celular con los procesos que ocurren en cada una de ellas Fases I Mitosis II Interface Procesos A duplicacion del ADN B crecimiento de la celula C sntesis de proteinas D division celular."
+    },
+    {
+      "answers": [
+        "interface, anafase, telofase y metafase.",
+        "metafase, profase, telofase y anafase.",
+        "anafase, metafase, profase y telofase.",
+        "profase, metafase, anafase y telofase."
+      ],
+      "correct": {
+        "index": 3
+      },
+      "number": 5,
+      "prompt": "Para su compresion, la mitosis se ha dividido en diferentes fases, \u00c2\u00bfCual es la secuencia correcta?."
+    },
+    {
+      "answers": [
+        "segmentacion.",
+        "ovulacion.",
+        "fecundacion.",
+        "transcripcion"
+      ],
+      "correct": {
+        "index": 2
+      },
+      "number": 6,
+      "prompt": "El sexo cromosomico se establece durante el proceso de."
+    },
+    {
+      "answers": [
+        "II, IV, V y VII.",
+        "IV, V, VI y VII.",
+        "I, III, V y VII.",
+        "I, II, IV y V."
+      ],
+      "correct": {
+        "index": 3
+      },
+      "number": 7,
+      "prompt": "La teora sintetica de la evolucion se\u00c3\u00b1ala la existencia de factores que aumentan la variabilidad del contenido genetico y, por consecuencia, son causa de la evolucion. De la siguiente lista, \u00c2\u00bfCuales son estos factores postulados que alteran el equilibrio genetico de una poblacion? I Mutacion II Migracion III Homeostasis  IV Deriva genica V seleccion natural  VI variabilidad genetica  VII duplicacion semiconservativa."
+    },
+    {
+      "answers": [
+        "VII, VI, V, IV, III, y I.",
+        "III, VII, I, II, V, IV, y VI.",
+        "I, II, III, IV, V, VI y VII.",
+        "V, III, I, VII, VI, IV, y II."
+      ],
+      "correct": {
+        "index": 1
+      },
+      "number": 8,
+      "prompt": "Ordena en forma descendente las categorias taxonomicas I clase II orden III reino IV genero V familia VI especie VII phylum."
+    },
+    {
+      "answers": [
+        "biotico \u00e2\u20ac\u201c abiotico.",
+        "biologico  - biotico.",
+        "fsico \u00e2\u20ac\u201c qumico.",
+        "fsico \u00e2\u20ac\u201c abiotico."
+      ],
+      "correct": {
+        "index": 0
+      },
+      "number": 9,
+      "prompt": "La dinamica y el posible equilibrio de un ecosistema dependen de la interaccion entre los factores _______ y ________."
+    },
+    {
+      "answers": [
+        "libres.",
+        "limpias.",
+        "organicas.",
+        "sinteticas."
+      ],
+      "correct": {
+        "index": 1
+      },
+      "number": 10,
+      "prompt": "Se denominan tecnologas _________ a aquellas que, gracias a los avances en el campo de la biotecnologa, da\u00c3\u00b1an lo menos posible el medio ambiente."
+    }
+  ],
+  "title": "Biologia",
+  "url": "https://ang004.github.io/FimeTest.github.io/."
+}

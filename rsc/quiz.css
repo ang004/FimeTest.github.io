@@ -2,7 +2,9 @@ html, body {
   width: 100%;
   font-family: Lato;
 }
-
+#quiz{
+	margin-top:25px;
+}
 .quiz-question {
   width: 100%;
   max-width: 500px;
@@ -13,7 +15,6 @@ html, body {
   font-size: 32px;
   margin-bottom: 20px;
 }
-
 .quiz-answers {
   text-align: center;
   width: 250px;
@@ -51,7 +52,7 @@ html, body {
 .question-image {
 	width: 100%;
 	max-width: 500px;
-	margin-bottom: -80px;
+	margin-bottom: 30px;
 	margin-right: auto;
 	margin-left: auto;
 }

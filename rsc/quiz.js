@@ -161,7 +161,7 @@ var $indicators = $('<ol>')
       var opts = {
         allowOutsideClick : false,
         allowEscapeKey : false,
-        confirmButtonText: "Siguiente Pregunta>",
+        confirmButtonText: "Next Question",
         html : true,
         confirmButtonColor: "#0096D2"
       };
@@ -271,7 +271,7 @@ var $indicators = $('<ol>')
 
   var $social = $("<div>")
     .attr('class', 'results-social')
-    .html('<div id = "social-text">Te agrado el test? Compartelo para que otros lo intenten</div>')
+    .html('<div id = "social-text">Did you like the quiz? Share your results with your friends, so they can give it a shot!</div>')
     .appendTo($results_slide);
 
   var $twitter_link = $('<a>')
@@ -335,8 +335,10 @@ function resultsText(state) {
 function tweet(state, opts) {
 
   var body = (
-    "Obtuve " + state.correct +
-    " de " + state.total + opts.url
+    "I got " + state.correct +
+    " out of " + state.total +
+    " on @taxpolicycenter’s \"" + opts.title +
+    "\" quiz. Prueba " + opts.url
   );
 
   return (
