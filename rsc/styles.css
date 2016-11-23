@@ -92,6 +92,9 @@ h3 {
 	height:auto;
 	width:25%;
 }
+.img-rounded:hover,.img-rounded:focus{
+transform:scale(1.25,1.25);
+}
 footer{
 	background-color:#006F10;
 	color:#FFFFFF;
@@ -126,4 +129,39 @@ footer{
 .nav .navbar .navbar-right{
 	margin-top:0px;
 	margin-bottom:100%;
+}
+a{
+	text-decoration:inherit;
+	color:inherit;
+}
+a:hover{
+	text-decoration:none;
+	color:inherit;
+}
+div#container
+{
+    width:840px;
+    height:317px;
+    overflow: visible;     /* if you don't want a scrollbar, set to hidden */
+    overflow-x:scroll;   /* hides horizontal scrollbar on newer browsers */
+
+    /* resize and min-height are optional, allows user to resize viewable area */
+    -webkit-resize:vertical; 
+    -moz-resize:vertical;
+    resize:vertical;
+    min-height:317px;
+}
+
+iframe#embed
+{
+    width:1000px;       /* set this to approximate width of entire page you're embedding */
+    height:4000px;      /* determines where the bottom of the page cuts off */
+    margin-left:-10px; /* clipping left side of page */
+    margin-top:-275px;  /* clipping top of page */
+    overflow:hidden;
+
+    /* resize seems to inherit in at least Firefox */
+    -webkit-resize:none;
+    -moz-resize:none;
+    resize:none;
 }

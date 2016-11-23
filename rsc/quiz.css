@@ -43,7 +43,7 @@ html, body {
 }
 
 .quiz-button.btn:hover {
-  background-color: #0096D2;
+  background-color: #0D761C;
   color: #fff;
 }
 
@@ -136,14 +136,14 @@ html, body {
 .progress-circles li{
   list-style: none;
   display: inline-block;
-  background: #ccc;
+  background: #CEEEA1;
   width: 15px;
   height: 15px;
   border-radius: 50%;
   margin-right: 10px;
 }
 .progress-circles li.dark{
-  background: #1696d2;
+  background: #0D761C;
 }
 
 

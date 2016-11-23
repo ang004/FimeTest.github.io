@@ -1,0 +1,213 @@
+{
+  "questions": [
+    {
+      "answers": [
+        "25/2",
+        "9",
+        "2",
+        "1/2"
+      ],
+      "correct": {
+        "index": 2
+      },
+      "image": "../images/m1.png",
+      "number": 1,
+      "prompt": "El valor de la siguiente operacion es."
+    },
+    {
+      "answers": [
+        "5/3x - 7/4 = 5",
+        "5/3 + 7/4 = 5x",
+        "5/3x + 7/4 = 5",
+        "5/3 + 7/4x =5"
+      ],
+      "correct": {
+        "index": 2
+      },
+      "number": 2,
+      "prompt": "El enunciado Cinco tercios de un numero mas siete cuartos es igual a cinco se simboliza como."
+    },
+    {
+      "answers": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": {
+        "index": 0
+      },
+      "image": "../images/m3.png",
+      "number": 3,
+      "prompt": "Factoriza la siguiente expresion."
+    },
+    {
+      "answers": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": {
+        "index": 2
+      },
+      "image": "../images/m5.png",
+      "number": 4,
+      "prompt": "."
+    },
+    {
+      "answers": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": {
+        "index": 1
+      },
+      "image": "../images/m6.png",
+      "number": 5,
+      "prompt": "."
+    },
+    {
+      "answers": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": {
+        "index": 1
+      },
+      "image": "../images/m6.png",
+      "number": 6,
+      "prompt": "."
+    },
+    {
+      "answers": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": {
+        "index": 2
+      },
+      "image": "../images/m7.png",
+      "number": 7,
+      "prompt": "."
+    },
+    {
+      "answers": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": {
+        "index": 2
+      },
+      "image": "../images/m8.png",
+      "number": 8,
+      "prompt": "."
+    },
+    {
+      "answers": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": {
+        "index": 1
+      },
+      "image": "../images/m9.png",
+      "number": 9,
+      "prompt": "."
+    },
+    {
+      "answers": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": {
+        "index": 3
+      },
+      "image": "../images/m10.png",
+      "number": 10,
+      "prompt": "."
+    },
+    {
+      "answers": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": {
+        "index": 1
+      },
+      "image": "../images/m11.png",
+      "number": 11,
+      "prompt": "."
+    },
+    {
+      "answers": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": {
+        "index": 2
+      },
+      "image": "../images/m12.png",
+      "number": 12,
+      "prompt": "."
+    },
+    {
+      "answers": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": {
+        "index": 1
+      },
+      "image": "../images/m13.png",
+      "number": 13,
+      "prompt": "."
+    },
+    {
+      "answers": [
+        "(-0.5, +3.5)",
+        "(-1.5, +2.5)",
+        "(-2.5, +3.5)",
+        "(-1.5, +3.5)"
+      ],
+      "correct": {
+        "index": 3
+      },
+      "number": 14,
+      "prompt": "Encuentra las coordenadas del punto medio del segmento AB, A(-1, +2) y B(-2, +5)."
+    },
+    {
+      "answers": [
+        "P (2, 6)",
+        "P (5, 5)",
+        "P (5, 3)",
+        "P (-2, 3)"
+      ],
+      "correct": {
+        "index": 0
+      },
+      "number": 15,
+      "prompt": "El centro de la circunferencia cuyo diametro es el segmento A(-3, 2), B(7, 8) es el punto."
+    }
+  ],
+  "title": "Matematicas",
+  "url": "https://ang004.github.io/FimeTest.github.io/."
+}

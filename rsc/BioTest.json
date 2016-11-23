@@ -50,7 +50,7 @@
         "index": 1
       },
       "number": 4,
-      "prompt": "Relaciona las fases del ciclo celular con los procesos que ocurren en cada una de ellas Fases I Mitosis II Interface Procesos A duplicacion del ADN B crecimiento de la celula C sntesis de proteinas D division celular."
+      "prompt": "Relaciona las fases del ciclo celular con los procesos que ocurren en cada una de ellas <br>Fases I-Mitosis II-Interface <br>Procesos: <br>A duplicacion del ADN <br>B crecimiento de la celula <br>C sntesis de proteinas <br>D division celular."
     },
     {
       "answers": [
@@ -63,7 +63,7 @@
         "index": 3
       },
       "number": 5,
-      "prompt": "Para su compresion, la mitosis se ha dividido en diferentes fases, \u00c2\u00bfCual es la secuencia correcta?."
+      "prompt": "Para su comprension, la mitosis se ha dividido en diferentes fases, ¿Cual es la secuencia correcta?."
     },
     {
       "answers": [
@@ -89,7 +89,7 @@
         "index": 3
       },
       "number": 7,
-      "prompt": "La teora sintetica de la evolucion se\u00c3\u00b1ala la existencia de factores que aumentan la variabilidad del contenido genetico y, por consecuencia, son causa de la evolucion. De la siguiente lista, \u00c2\u00bfCuales son estos factores postulados que alteran el equilibrio genetico de una poblacion? I Mutacion II Migracion III Homeostasis  IV Deriva genica V seleccion natural  VI variabilidad genetica  VII duplicacion semiconservativa."
+      "prompt": "La teora sintetica de la evolucion se\u00c3\u00b1ala la existencia de factores que aumentan la variabilidad del contenido genetico y, por consecuencia, son causa de la evolucion. De la siguiente lista, \u00c2\u00bfCuales son estos factores postulados que alteran el equilibrio genetico de una poblacion? <br>I Mutacion <br>II Migracion<br> III Homeostasis<br>  IV Deriva genica<br> V seleccion natural<br>  VI variabilidad genetica<br>  VII duplicacion semiconservativa."
     },
     {
       "answers": [
@@ -102,14 +102,14 @@
         "index": 1
       },
       "number": 8,
-      "prompt": "Ordena en forma descendente las categorias taxonomicas I clase II orden III reino IV genero V familia VI especie VII phylum."
+      "prompt": "Ordena en forma descendente las categorias taxonomicas <br>I clase<br> II orden <br>III reino <br>IV genero <br>V familia <br>VI especie <br>VII phylum."
     },
     {
       "answers": [
-        "biotico \u00e2\u20ac\u201c abiotico.",
-        "biologico  - biotico.",
-        "fsico \u00e2\u20ac\u201c qumico.",
-        "fsico \u00e2\u20ac\u201c abiotico."
+        "biotico y abiotico.",
+        "biologico  y biotico.",
+        "fsico y qumico.",
+        "fsico y abiotico."
       ],
       "correct": {
         "index": 0

@@ -161,7 +161,7 @@ var $indicators = $('<ol>')
       var opts = {
         allowOutsideClick : false,
         allowEscapeKey : false,
-        confirmButtonText: "Next Question",
+        confirmButtonText: "Siguiente pregunta >",
         html : true,
         confirmButtonColor: "#0096D2"
       };

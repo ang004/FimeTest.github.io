@@ -1,0 +1,135 @@
+{
+  "questions": [
+    {
+      "answers": [
+        "amoniaco",
+        "antimonio",
+        "aire",
+        "humo"
+      ],
+      "correct": {
+        "index": 0
+      },
+      "number": 1,
+      "prompt": "El ________ es un compuesto."
+    },
+    {
+      "answers": [
+        "segunda mitad del siglo XIX",
+        "primera mitad del siglo XX",
+        "primeros a\u00c3\u00b1os del siglo XXI",
+        "segunda mitad del siglo XX"
+      ],
+      "correct": {
+        "index": 1
+      },
+      "number": 2,
+      "prompt": "epoca en la que se avanza mas en el conocimiento de la estructura atomica."
+    },
+    {
+      "answers": [
+        "I:C- II:B-III:A",
+        "I:B- II:C -III:A",
+        "I:B- II:A-III:C",
+        "I:A- II:C-III:B"
+      ],
+      "correct": {
+        "index": 2
+      },
+      "number": 3,
+      "prompt": "Relaciona  los compuestos con la funcion que les corresponde, Compuestos: I LIOH II H3PO4 III NaH Funciones: A acido B hidroxido C sal."
+    },
+    {
+      "answers": [
+        "34.5",
+        "30.3",
+        "14.6",
+        "12.6"
+      ],
+      "correct": {
+        "index": 1
+      },
+      "number": 4,
+      "prompt": "La cantidad en mL de HCI concentrado (37% en peso d = 1,14 g/Ml) que debera medirse para preparar 250 mL de HCI (ac) 1,4 M, es."
+    },
+    {
+      "answers": [
+        "1.01",
+        "10.01",
+        "10.1",
+        "11.0"
+      ],
+      "correct": {
+        "index": 1
+      },
+      "number": 5,
+      "prompt": "Si la masa molar del agua es de 18 gramos por mol y la del azucar es de 342 gramos por mol, determina las unidades mol totales que se obtienen si se disuelven 3,42 gramos de azucar en 180 gramos de agua."
+    },
+    {
+      "answers": [
+        "de la plata es menor que el del oxigeno.",
+        "del oxigeno es mayor que el de la plata.",
+        "del agua es menor que el del oxigeno.",
+        "de la plata es mayor que el del agua."
+      ],
+      "correct": {
+        "index": 3
+      },
+      "number": 6,
+      "prompt": "A temperatura ambiente, el agua es un liquido; la plata, un solido, y el oxigeno, un gas, Por lo tanto podemos afirmar que el punto de fusion."
+    },
+    {
+      "answers": [
+        "HCI",
+        "NaOH",
+        "NaCL",
+        "Cl2"
+      ],
+      "correct": {
+        "index": 0
+      },
+      "number": 7,
+      "prompt": "&#191Cual de las siguientes sustancias es un acido? ."
+    },
+    {
+      "answers": [
+        "saponificacion",
+        "esterificacion",
+        "oxidacion",
+        "reduccion"
+      ],
+      "correct": {
+        "index": 2
+      },
+      "number": 8,
+      "prompt": "La combustion es un tipo especifico de una reaccion de."
+    },
+    {
+      "answers": [
+        "alcohol",
+        "ester",
+        "carboxilo",
+        "aldehido"
+      ],
+      "correct": {
+        "index": 2
+      },
+      "number": 9,
+      "prompt": "El enlace peptidico se forma al reaccionar una amina con un grupo ."
+    },
+    {
+      "answers": [
+        "exotermicas porque liberan energia en forma de calor hacia los alrededores.",
+        "exotermicas porque absorben energia en forma de calor de los alrededores.",
+        "endotermicas porque liberan energia en forma de calor hacia los alrededores."
+      ],
+      "correct": {
+        "index": 0
+      },
+      "number": 10,
+      "prompt": "Las reacciones de combustion son."
+    }
+  ],
+  "title": "Quimica",
+  "url": "https://ang004.github.io/FimeTest.github.io/."
+}

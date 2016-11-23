@@ -1,0 +1,218 @@
+{
+  "questions": [
+    {
+      "answers": [
+        "0.66",
+        "1.14",
+        "1.60",
+        "2.80"
+      ],
+      "correct": {
+        "index": 1
+      },
+      "image": "../images/f1.jpeg",
+      "number": 1,
+      "prompt": "Un patinador describe un desplazamiento d con respecto del tiempo t, como se muestra en la figura &#191Cual es la velocidad media del patinador en todo su recorrido?."
+    },
+    {
+      "answers": [
+        "La caida libre de un cuerpo desde del reposo.",
+        "Un lanzamiento vertical hacia abajo.",
+        "Un movimiento con aceleracion positiva.",
+        "Un movimiento con aceleracion negativa."
+      ],
+      "correct": {
+        "index": 3
+      },
+      "image": "../images/f2.jpeg",
+      "number": 2,
+      "prompt": "&#191Que representa la siguiente grafica?."
+    },
+    {
+      "answers": [
+        "0.098 N",
+        "0.05 N",
+        "2 N",
+        "50 N"
+      ],
+      "correct": {
+        "index": 1
+      },
+      "number": 3,
+      "prompt": "Una moneda de 10 gramos es colocada sobre un plano sin friccion. Si de desea producirle una aceleracion de 5 m/s^2, &#191Cual es la magnitud de la fuerza que se requiere aplicar?."
+    },
+    {
+      "answers": [
+        "Solamente esta presente la fuerza que ejerce el carrito sobre el tobillo.",
+        "Los dos, carrito y tobillo, reciben una fuerza pero la ejercida por el carrito es de menor magnitud.",
+        "Los dos, carrito y tobillo, reciben una fuerza de igual magnitud.",
+        "Los dos, carrito y tobillo, reciben una fuerza pero la ejercida por el tobillo es de menor magnitud."
+      ],
+      "correct": {
+        "index": 2
+      },
+      "number": 4,
+      "prompt": "Un carrito del supermercado golpea el tobillo de una se&#241ora &#191Cual de los siguientes enunciados es verdadero?."
+    },
+    {
+      "answers": [
+        "la ley de la gravitacion universal.",
+        "la segunda ley de newton.",
+        "el principio de la conservacion de la masa.",
+        "la ley de Hooke."
+      ],
+      "correct": {
+        "index": 3
+      },
+      "number": 5,
+      "prompt": "Para medir fuerzas se emplea un dinamometro que en esencia es un resorte adecuadamente calibrado En la calibracion de todo dinamometro se hace uso de."
+    },
+    {
+      "answers": [
+        "Ec= mv",
+        "Ec= 2mv^2",
+        "Ec = mv/2",
+        "Ec= 1/2 mv^2"
+      ],
+      "correct": {
+        "index": 3
+      },
+      "number": 6,
+      "prompt": "La ecuacion que permite calcular la energia cinetica de una particula de masa m y velocidad v es."
+    },
+    {
+      "answers": [
+        "50,400 J - 50,400 J",
+        "420 J - 420 J",
+        "50,400 J - 0 J",
+        "420 - 0 J"
+      ],
+      "correct": {
+        "index": 0
+      },
+      "number": 7,
+      "prompt": "Una bala de ca&#241on de 7.0 kg se dispara verticalmente hacia arriba con una rapidez  de 120 m/s &#191Cuanta energia cinetica tiene al salir y cuanta energia potencial tiene en el punto mas alto de la trayectoria?."
+    },
+    {
+      "answers": [
+        "-100 C",
+        "0 F",
+        "0 k",
+        "0 C"
+      ],
+      "correct": {
+        "index": 2
+      },
+      "number": 8,
+      "prompt": "La teoria cinetica de los gases predice una temperatura para la cual todas las particulas del gas cesan su movimiento aleatorio &#191Cual es esa temperatura?."
+    },
+    {
+      "answers": [
+        "Refractan.",
+        "Polarizan.",
+        "Reflejan.",
+        "superponen."
+      ],
+      "correct": {
+        "index": 3
+      },
+      "number": 9,
+      "prompt": "A la playa llega el oleaje del mar y en ocasiones llegan algunas olas de mayor tama&#241o que el promedio Lo anterior se debe al comportamiento ondulatorio de las olas, pues estas se."
+    },
+    {
+      "answers": [
+        "2.41 Ohm",
+        "4.4 Ohm",
+        "12 Ohm",
+        "1.90 Ohm"
+      ],
+      "correct": {
+        "index": 1
+      },
+      "image": "../images/f3.jpeg",
+      "number": 10,
+      "prompt": "Determina la resistencia total del circuito que se representa en la imagen."
+    },
+    {
+      "answers": [
+        "Por la simple presencia de cargas electricas.",
+        "Al tener campos electricos en movimiento.",
+        "Al tener cargas electricas en movimiento.",
+        "Por la simple presencia de campos electricos."
+      ],
+      "correct": {
+        "index": 2
+      },
+      "number": 11,
+      "prompt": "&#191En cual de las siguientes condiciones se genera un campo magnetico?."
+    },
+    {
+      "answers": [
+        "r,a,v,z.",
+        "a,v,r,z.",
+        "v,a,z,r.",
+        "z,v,a,r."
+      ],
+      "correct": {
+        "index": 3
+      },
+      "number": 12,
+      "prompt": "El orden creciente de la longitud de onda para el color azul (z), el verde (v), el rojo (r), y la luz amarilla (a) es."
+    },
+    {
+      "answers": [
+        "PA=PB=PC",
+        "PA>PB>PC",
+        "PB>PA>PC",
+        "PC>PB >PA"
+      ],
+      "correct": {
+        "index": 1
+      },
+      "image": "../images/f4.jpeg",
+      "number": 13,
+      "prompt": "Tres recipientes identicos A, B, y C contiene igual cantidad de diferentes liquidos, las densidades de los liquidos son pA>pB>pC &#191Como es la presion en las bases de los recipientes? <br>Considera que PA= presion sobre la base A, PB= presion sobre la base B y PC= presion sobre la base C."
+    },
+    {
+      "answers": [
+        "0.0052 hrs",
+        "0.020 hrs",
+        "1.63 hrs",
+        "2.07 hrs"
+      ],
+      "correct": {
+        "index": 3
+      },
+      "number": 14,
+      "prompt": "&#191En cuanto tiempo se llenara una alberca olimpica de 50 m x 25 m x 3 m, si se usa un tubo de 40 cm de diametro por el que fluye agua a una velocidad de 4 m/s?."
+    },
+    {
+      "answers": [
+        "una corriente de particulas emitidas por un fuente luminosa que estimula el sentido de la vista al penetrar en el ojo, explicando la reflexion.",
+        "una onda transversal que al paso de una rejilla la onda se deforma, explicando la refraccion.",
+        "un flujo de rayos que al rodear un obstaculo explican la difraccion.",
+        "una superposicion de ondas que al encontrarse aumentan, explicando la interferencia."
+      ],
+      "correct": {
+        "index": 0
+      },
+      "number": 15,
+      "prompt": "Newton considero  a la luz como."
+    },
+    {
+      "answers": [
+        "los electrones son cargas negativas  que se encuentran incrustados en l esfera atomica, siendo el atomo electricamente neutro ya que tiene igual numero de protones.",
+        "los atomos del mismo tipo tiene masa y propiedades iguales.",
+        "los electrones se encuentran en regiones especificas a diferentes distancias del nucleo, vibrando alrededor de este como la hacen los planetas alrededor del sol.",
+        "hay un atomo distinto para cada elementos cuyas masas y tama&#241os son diferentes, que se pueden combinar en diferentes proporciones para formar mas de un compuesto."
+      ],
+      "correct": {
+        "index": 0
+      },
+      "number": 16,
+      "prompt": "El modelo de Thomson establece que."
+    }
+  ],
+  "title": "Fisica",
+  "url": "https://ang004.github.io/FimeTest.github.io/."
+}
